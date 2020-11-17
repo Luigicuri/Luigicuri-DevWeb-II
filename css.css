@@ -1,0 +1,86 @@
+html{
+    background-color: rgb(233, 230, 227);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+}
+footer{
+    font-family: serif;
+}
+h1{
+    background-color:rgb(31, 31, 31);
+    max-width: 400px;
+    margin: 0 auto 100px;
+    padding: 30px;
+    text-align: center;
+    color: white;
+    font-family: "Days One", Sans-serif;
+    font-weight: 800;
+    border-radius: 10px;
+}
+.nav ul{
+    margin-left: 37%;
+    margin-bottom: 10%;
+}
+.nav a{
+    align-content: center;
+    padding: 11px 18px 10px;
+    width: 18%;
+    text-align: center;
+     background-color:rgb(31, 31, 31);
+     color: white;
+     text-decoration: none;
+     font-size: 15px;
+     border-radius: 10px;
+
+}
+h4{
+    padding: 11px 200px 10px;
+    width: 18%;
+    text-align: center;
+     background-color:rgb(31, 31, 31);
+     color: white;
+     text-decoration: none;
+     font-size: 15px;
+     border-radius: 10px;
+    font-family: ;
+}
+img{
+    margin-bottom: 10%;
+    
+}
+h5{
+    margin-top: 15%;
+    font-size: 20px;
+}
+.botao{
+    background-color:rgb(31, 31, 31) ;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+    border-color: rgb(255, 194, 125);
+    /*incrementar o botão mais tarde*/
+}
+.botao:hover{
+    background-color: rgb(255, 194, 125);
+    opacity: 0.97;
+}
+.pos{
+    position: absolute;
+    top: 35%;
+  right: 80px;
+  width: -400px;
+  height: 50px;
+  
+}
+
+h2{
+    font-size: 50px;
+    text-align: justify;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.ibagem{
+    
+    position: relative;
+    
+}
